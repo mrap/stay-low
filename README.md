@@ -32,6 +32,12 @@ Player with the most points wins.
   * Object ball - any numbered ball
   * Target (ball) - ball that can be legally struck by the cue ball
 
+## Tie Breakers
+
+  * The player with the highest chain count wins. Start with the highest achieved chain and work down to the lowest untill there is a winner.
+  * If no winner has been decided, the total number points of the pocketed balls for each player are used (multipliers do not apply).
+  * If this fails, the total number of pocketed balls will decide a winner.
+
 ## TODO
 
   * Tie-breakers?
