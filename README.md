@@ -26,6 +26,8 @@ Player with the most points wins.
 
   * If the cue ball is pocketed, any points accumulated for **this shot** are awarded to the opposing player.
     The turn ends, and the opposing player has ball in hand.
+  * If the cue ball leaves the table, any points accumulated for **this shot** are awarded to the opposing player.
+    The turn ends, and the opposing player has ball in hand.
 
 ## Terms
 
@@ -40,4 +42,4 @@ Player with the most points wins.
 
 ## TODO
 
-  * Tie-breakers?
+  * What todo if a ball other than the cue ball leaves the table?
