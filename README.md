@@ -1,4 +1,4 @@
-# stay-low
+# stay-low (working title)
 A points based pool game that promotes combos and fun.
 
 ## Rules
