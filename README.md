@@ -19,7 +19,8 @@ Player with the most points wins.
 
 ### Rack
   
-  Same as [Rotation](https://en.wikipedia.org/wiki/Rotation_(pool))
+  Same as [Rotation](https://en.wikipedia.org/wiki/Rotation_(pool)). At the beginning of each game, the balls are racked in a triangle as in eight-ball and other games using fifteen object balls, but in particular with the 1 ball at the front (apex) of the rack, on the foot spot, the 2 ball on the right rear corner (from the vantage of the racker) and the 3 ball at the left rear corner (as in kelly pool), and the 15 ball – the one with the highest value – in the center; all other balls are placed randomly, and all balls must be touching.
+  Example:
   ![Rotation rack](https://upload.wikimedia.org/wikipedia/commons/f/f1/Rotation_rack.jpg)
 
 ## Fouls
