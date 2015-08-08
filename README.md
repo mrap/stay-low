@@ -10,7 +10,7 @@ Player with the most points wins.
   1. Balls pocketed award points matching the number on the ball.
   2. At the start of every turn, all object balls are valid targets. 
      On all following shots (in the same turn), the target ball must be higher or equal to the target of your previous shot.
-     If there are no more legal targets then the turn is over.
+     If a higher value ball is not on the table, your turn is over.
   3. Combos that are called award a point multiplier.   
      The multiplier is equal to the number of object balls involved. 
      The called combo does not need to have a pocket specified.
