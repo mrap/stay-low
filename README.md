@@ -27,6 +27,14 @@ Player with the most points wins.
 
   * If the cue ball is pocketed, any points accumulated for **this shot** are awarded to the opposing player.
     The turn ends, and the opposing player has ball in hand.
+  * If the cue ball leaves the table, any points accumulated for **this shot** are awarded to the opposing player.
+    The turn ends, and the opposing player has ball in hand.
+
+## Tie Breakers
+
+  * The player with the highest chain count wins. Start with the highest achieved chain and work down to the lowest untill there is a winner.
+  * If no winner has been decided, the total number points of the pocketed balls for each player are used (multipliers do not apply).
+  * If this fails, the total number of pocketed balls will decide a winner.
 
 ## Terms
 
@@ -35,4 +43,4 @@ Player with the most points wins.
 
 ## TODO
 
-  * Tie-breakers?
+  * What todo if a ball other than the cue ball leaves the table?
